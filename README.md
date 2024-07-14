@@ -1,4 +1,4 @@
-# Classification-of-attacked-networks
+# Classification of attacked networks
 
 This project aims to determine whether and how a network has been attacked using machine learning techniques. The networks under consideration are of three types: Erdős–Rényi, Barabási–Albert, and Watts–Strogatz. We characterize each network using four metrics:
 - Normalized Reciprocal Maximum Degree
